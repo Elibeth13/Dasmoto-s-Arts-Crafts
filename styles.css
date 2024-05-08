@@ -1,0 +1,53 @@
+/* Project: Dasmoto's Art & Crafts */
+* {
+    font-family: Helvetica, sans-serif;
+}
+/* Header */
+.header {
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg');
+    height: 110px;
+    width: 100%;
+    margin-bottom: 110px;
+}
+
+.header h1 {
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+/* Insertions titles */
+
+.insertion h2 {
+    text-align: left;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.insertion #brushes {
+    background-color: #00fa9a;
+    width: 100%;
+}
+.insertion #frames {
+    background-color: #f08080;
+    width: 100%;
+}
+.insertion #paint {
+    background-color: #87ceeb;
+    width: 100%;
+}
+/* Insertions descriptions */
+.insertion h3 {
+    text-align: left;
+    font-weight: bold;
+    color: black;
+}
+
+.insertion_image {
+    position: relative;
+}
+
+.insertion span {
+    font-weight: bold;
+    color: blue;
+}
