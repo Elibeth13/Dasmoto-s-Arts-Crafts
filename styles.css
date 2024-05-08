@@ -4,7 +4,7 @@
 }
 /* Header */
 .header {
-    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg');
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
     height: 110px;
     width: 100%;
     margin-bottom: 110px;
